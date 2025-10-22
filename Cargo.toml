@@ -1,0 +1,9 @@
+[package]
+name = "chip8_emulator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8"
+minifb = "0.25"
+rodio = "0.17"
