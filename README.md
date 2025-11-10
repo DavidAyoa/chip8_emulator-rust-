@@ -17,7 +17,7 @@ Chip-8 is a simple interpreted programming language used on some vintage compute
 
 ## Status
 
-Learning project / experimental. Functionality implemented while learning Rust; expect rough edges and room for improvement. Created October 2024.
+Learning project / experimental. Functionality implemented while learning Rust; expect rough edges and room for improvement. Created October 2025.
 
 ## Requirements
 
@@ -66,4 +66,4 @@ Include a license if you want others to reuse the code. For a personal project, 
 
 ---
 
-Made by DavidAyoa — learning Rust (Oct 2024).
+Made by jadwd — learning Rust (Oct 2025).
